@@ -26,3 +26,8 @@ This example demonstrates a basic yet powerful FIR filter implementation and sim
 
 *OUTPUT* :
 
+
+<img width="788" alt="Image" src="https://github.com/user-attachments/assets/e6554fa1-9c29-46a7-b0a6-d48ab0e94862" />
+
+
+<img width="785" alt="Image" src="https://github.com/user-attachments/assets/0d863762-aa46-449f-9afd-d2d69300723a" />
